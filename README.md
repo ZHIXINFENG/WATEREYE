@@ -4,7 +4,11 @@ This is the codes for eMPC load reduction algorithms and longterm forecast based
 
 
 How to cite this:
-DOI: 10.5281/zenodo.7274795
+Z. Feng, A.J. Gallo, A.K.P.Pamososuryo, R.M.G.Riccardo, J.W.van Wingerden, "An Economic Model Predictive Control Approach for Load Mitigation on Multiple Tower Locations of Wind Turbines." arXiv preprint arXiv:2209.14848 (2022).
 
-Link:
+
+Link to the paper:
+https://arxiv.org/abs/2209.14848
+
+Link to the Code:
 https://zenodo.org/record/7274795#.Y2KzjLbMI2w
